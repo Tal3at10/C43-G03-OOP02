@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "C43-G03-OOP02": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
